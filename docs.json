@@ -87,28 +87,8 @@
   "footer": {
     "socials": {
       "facebook": "https://www.facebook.com/profile.php?id=61588246142192",
-      "instagram": "https://www.instagram.com/doprovazeni",
-      "github": "https://github.com/Doprovazeni"
-    },
-    "links": [
-      {
-        "header": "O nás",
-        "items": [
-          {
-            "label": "Služby",
-            "href": "https://www.doprovazeni.com/"
-          },
-          {
-            "label": "Tým",
-            "href": "https://www.doprovazeni.com/"
-          },
-          {
-            "label": "Školení",
-            "href": "https://www.doprovazeni.com/"
-          }
-        ]
-      }
-    ]
+      "instagram": "https://www.instagram.com/doprovazeni"
+    }
   },
   "metadata": {
     "timestamp": true
@@ -133,7 +113,18 @@
   },
   "styling": {
     "eyebrows": "section",
-    "latex": true
+    "latex": true,
+    "codeblocks": {
+      "theme": {
+        "light": "min-light",
+        "dark": "min-dark"
+      },
+      "languages": {
+        "custom": [
+          ""
+        ]
+      }
+    }
   },
   "icons": {
     "library": "fontawesome"
