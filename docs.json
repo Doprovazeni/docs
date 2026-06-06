@@ -94,6 +94,12 @@
         ]
       },
       {
+        "group": "Novinky",
+        "pages": [
+          "novinky/index"
+        ]
+      },
+      {
         "group": "Interní zdroje",
         "pages": [
           {
