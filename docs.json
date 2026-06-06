@@ -47,7 +47,8 @@
         "pages": [
           "pruvodce",
           "jak-to-funguje",
-          "nase-mise"
+          "nase-mise",
+          "kontakt"
         ]
       },
       {
@@ -88,8 +89,7 @@
       {
         "group": "Právní informace",
         "pages": [
-          "gdpr",
-          "kontakt"
+          "gdpr"
         ]
       },
       {
