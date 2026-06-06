@@ -81,6 +81,17 @@
           "gdpr",
           "kontakt"
         ]
+      },
+      {
+        "group": "Externí zdroje",
+        "pages": [
+          {
+            "group": "Metodické pokyny",
+            "pages": [
+              "xxx"
+            ]
+          }
+        ]
       }
     ]
   },
