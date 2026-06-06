@@ -98,6 +98,17 @@
             ]
           }
         ]
+      },
+      {
+        "group": "Interní zdroje",
+        "pages": [
+          {
+            "group": "Metodické pokyny",
+            "pages": [
+              "pruvodce-doprovazenim"
+            ]
+          }
+        ]
       }
     ]
   },
@@ -145,5 +156,12 @@
   },
   "icons": {
     "library": "fontawesome"
+  },
+  "api": {
+    "examples": {
+      "languages": [
+        ""
+      ]
+    }
   }
 }
