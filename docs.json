@@ -1,0 +1,141 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "Doprovázení",
+  "theme": "mint",
+  "logo": {
+    "light": "/images/doprovazeni__logo__black.svg",
+    "dark": "/images/doprovazeni__logo__white.svg"
+  },
+  "favicon": {
+    "light": "/images/doprovazeni__logo__white.svg",
+    "dark": "/images/doprovazeni__logo__black.svg"
+  },
+  "colors": {
+    "primary": "#040404",
+    "light": "#444444",
+    "dark": "#040404"
+  },
+  "font": {
+    "headings": {
+      "family": "Cardo"
+    },
+    "body": {
+      "family": "Inter"
+    }
+  },
+  "navbar": {
+    "primary": {
+      "type": "button",
+      "label": "Kontaktujte nás",
+      "href": "https://forms.gle/byypLL4jHWes1a4B8"
+    },
+    "links": [
+      {
+        "href": "https://www.doprovazeni.com/",
+        "label": "Web"
+      },
+      {
+        "href": "https://blog.doprovazeni.com/",
+        "label": "Blog"
+      }
+    ]
+  },
+  "navigation": {
+    "groups": [
+      {
+        "group": "Úvod",
+        "pages": [
+          "pruvodce",
+          "jak-to-funguje",
+          "nase-mise"
+        ]
+      },
+      {
+        "group": "Naše služby",
+        "pages": [
+          "sluzby/poradenstvi",
+          "sluzby/vzdelavani",
+          "sluzby/odlehcovaci-pece",
+          "sluzby/kontakt-s-bio-rodinou",
+          "sluzby/kratkodoba-pece"
+        ]
+      },
+      {
+        "group": "Vzdělávání",
+        "pages": [
+          "vzdelavani/online-kurzy",
+          "vzdelavani/prezencni-kurzy",
+          "vzdelavani/lektori"
+        ]
+      },
+      {
+        "group": "Tým a region",
+        "pages": [
+          "tym",
+          "region"
+        ]
+      },
+      {
+        "group": "Právní informace",
+        "pages": [
+          "gdpr",
+          "kontakt"
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "socials": {
+      "facebook": "https://www.facebook.com/profile.php?id=61588246142192",
+      "instagram": "https://www.instagram.com/doprovazeni",
+      "github": "https://github.com/Doprovazeni"
+    },
+    "links": [
+      {
+        "header": "O nás",
+        "items": [
+          {
+            "label": "Služby",
+            "href": "https://www.doprovazeni.com/"
+          },
+          {
+            "label": "Tým",
+            "href": "https://www.doprovazeni.com/"
+          },
+          {
+            "label": "Školení",
+            "href": "https://www.doprovazeni.com/"
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "timestamp": true
+  },
+  "contextual": {
+    "options": [
+      "copy",
+      "assistant",
+      "view",
+      "download-pdf",
+      "chatgpt",
+      "claude",
+      "aistudio"
+    ],
+    "display": "toc"
+  },
+  "search": {
+    "prompt": "Hledejte nebo se zeptejte ..."
+  },
+  "markdown": {
+    "schema": true
+  },
+  "styling": {
+    "eyebrows": "section",
+    "latex": true
+  },
+  "icons": {
+    "library": "fontawesome"
+  }
+}

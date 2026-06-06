@@ -1,0 +1,73 @@
+{
+  "projectType": "saas",
+  "projectName": "Doprovázení",
+  "projectDescription": "Profesionální doprovázení pěstounských rodin v severních Čechách — odborná podpora, vzdělávání a poradenství pro náhradní rodiny a svěřené děti.",
+  "theme": "almond",
+  "primaryColor": "#040404",
+  "lightColor": null,
+  "darkColor": null,
+  "navigation": {
+    "groups": [
+      {
+        "group": "Úvod",
+        "pages": [
+          "uvod",
+          "jak-to-funguje",
+          "nase-mise"
+        ]
+      },
+      {
+        "group": "Naše služby",
+        "pages": [
+          "sluzby/poradenstvi",
+          "sluzby/vzdelavani",
+          "sluzby/odlehcovaci-pece",
+          "sluzby/kontakt-s-bio-rodinou",
+          "sluzby/krátkodobá-pece"
+        ]
+      },
+      {
+        "group": "Vzdělávání",
+        "pages": [
+          "vzdelavani/online-kurzy",
+          "vzdelavani/prezencni-kurzy",
+          "vzdelavani/lektori"
+        ]
+      },
+      {
+        "group": "Náš tým & region",
+        "pages": [
+          "tym",
+          "region"
+        ]
+      },
+      {
+        "group": "Právní informace",
+        "pages": [
+          "gdpr",
+          "kontakt"
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Individuální podpora a poradenství (psychologické, výchovné, sociálně-právní)",
+    "Vzdělávací kurzy a workshopy pro pěstouny (online i prezenční)",
+    "Odlehčovací péče a respitní služby",
+    "Podpora a asistence při kontaktu s biologickou rodinou",
+    "Zajištění krátkodobé péče o svěřené děti",
+    "Pravidelná osobní setkávání min. 1× za 2 měsíce",
+    "Hiporehabilitace",
+    "Supervize pro pěstouny"
+  ],
+  "publicApiSurface": [
+    "Kontaktní formulář: https://forms.gle/byypLL4jHWes1a4B8",
+    "Telefon: +420 739 583 060",
+    "Email: info@doprovazeni.com",
+    "Email dotazy: dotazy@doprovazeni.com",
+    "Email GDPR: gdpr@doprovazeni.com",
+    "Sídlo: Jiráskova 270, 417 52 Hostomice",
+    "Kancelář: Školní nám. 21, 417 52 Hostomice",
+    "Datová schránka: rkbi835"
+  ]
+}
