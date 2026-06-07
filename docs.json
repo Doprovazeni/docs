@@ -128,7 +128,10 @@
         ]
       },
       {
-        "product": "Testovací produkt B"
+        "product": "Testovací produkt B",
+        "icon": "bahai",
+        "href": "https://www.zive.cz",
+        "openapi": "https://www.idnes.cz"
       }
     ]
   },
