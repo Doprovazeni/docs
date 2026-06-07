@@ -100,7 +100,8 @@
         "group": "Novinky",
         "pages": [
           "novinky/index"
-        ]
+        ],
+        "hidden": true
       },
       {
         "group": "Právní informace",
