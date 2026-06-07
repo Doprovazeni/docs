@@ -47,8 +47,7 @@
         "pages": [
           "pruvodce",
           "jak-to-funguje",
-          "nase-mise",
-          "kontakt"
+          "nase-mise"
         ]
       },
       {
@@ -73,7 +72,15 @@
         "group": "Tým a region",
         "pages": [
           "tym",
-          "region"
+          "region",
+          "kontakt"
+        ]
+      },
+      {
+        "group": "Metodické pokyny",
+        "pages": [
+          "pruvodce-doprovazenim",
+          "kontaktys-puvodni-rodinou"
         ]
       },
       {
@@ -89,6 +96,12 @@
         "hidden": true
       },
       {
+        "group": "Novinky",
+        "pages": [
+          "novinky/index"
+        ]
+      },
+      {
         "group": "Právní informace",
         "pages": [
           "gdpr"
@@ -101,24 +114,6 @@
             "group": "Metodické pokyny",
             "pages": [
               "realizace-kontaktu-ditete-v-pestounske-peci"
-            ]
-          }
-        ]
-      },
-      {
-        "group": "Novinky",
-        "pages": [
-          "novinky/index"
-        ]
-      },
-      {
-        "group": "Interní zdroje",
-        "pages": [
-          {
-            "group": "Metodické pokyny",
-            "pages": [
-              "pruvodce-doprovazenim",
-              "kontaktys-puvodni-rodinou"
             ]
           }
         ]
