@@ -173,5 +173,11 @@
         ""
       ]
     }
+  },
+  "background": {
+    "color": {
+      "light": "#0900ca",
+      "dark": "#ff0000"
+    }
   }
 }
