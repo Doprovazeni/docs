@@ -43,7 +43,7 @@
   "navigation": {
     "products": [
       {
-        "product": "Testovací produkt A",
+        "product": "Doprovázení.com",
         "icon": "butterfly",
         "groups": [
           {
@@ -113,25 +113,19 @@
             "pages": [
               "gdpr"
             ]
-          },
-          {
-            "group": "Externí zdroje",
-            "pages": [
-              {
-                "group": "Metodické pokyny",
-                "pages": [
-                  "realizace-kontaktu-ditete-v-pestounske-peci"
-                ]
-              }
-            ]
           }
         ]
       },
       {
-        "product": "Testovací produkt B",
-        "icon": "bahai",
-        "href": "https://www.zive.cz",
-        "openapi": "https://www.idnes.cz"
+        "product": "MPSV ČR",
+        "pages": [
+          {
+            "group": "Metodické pokyny",
+            "pages": [
+              "realizace-kontaktu-ditete-v-pestounske-peci"
+            ]
+          }
+        ]
       }
     ]
   },
