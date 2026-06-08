@@ -128,7 +128,8 @@
               "metodika-doprovazeni",
               "pomoc-pri-osobni-peci",
               "upresneni-vykladu-respity"
-            ]
+            ],
+            "icon": "chalkboard-teacher"
           },
           {
             "group": "Informace",
@@ -136,7 +137,8 @@
               "statni-prispevek-na-vykon-pestounske-pece",
               "statni-prispevek-na-vykon-pestounske-pece-instrukce-8-2019",
               "zapis-z-jednani-mpsv-a-asociace-dite-a-rodina"
-            ]
+            ],
+            "icon": "school"
           }
         ],
         "icon": "route-interstate",
