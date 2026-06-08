@@ -119,21 +119,28 @@
       {
         "product": "MPSV ČR",
         "pages": [
+          "doprovazeni-pestounu-a-dohody-o-vykonu-pestounske-pece",
           {
             "group": "Metodické pokyny",
             "pages": [
               "realizace-kontaktu-ditete-v-pestounske-peci",
               "informace-k-dohodam",
-              "statni-prispevek-na-vykon-pestounske-pece",
-              "doprovazeni-pestounu-a-dohody-o-vykonu-pestounske-pece",
-              "statni-prispevek-na-vykon-pestounske-pece-instrukce-8-2019",
               "metodika-doprovazeni",
               "pomoc-pri-osobni-peci",
-              "upresneni-vykladu-respity",
+              "upresneni-vykladu-respity"
+            ]
+          },
+          {
+            "group": "Informace",
+            "pages": [
+              "statni-prispevek-na-vykon-pestounske-pece",
+              "statni-prispevek-na-vykon-pestounske-pece-instrukce-8-2019",
               "zapis-z-jednani-mpsv-a-asociace-dite-a-rodina"
             ]
           }
-        ]
+        ],
+        "icon": "route-interstate",
+        "description": "Informace z Ministerstva práce s sociálních věcí ČR"
       }
     ]
   },
