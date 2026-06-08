@@ -44,7 +44,7 @@
     "products": [
       {
         "product": "Doprovázení.com",
-        "icon": "butterfly",
+        "icon": "hands-holding-child",
         "groups": [
           {
             "group": "Úvod",
@@ -114,7 +114,8 @@
               "gdpr"
             ]
           }
-        ]
+        ],
+        "description": "Doprovázení.com je skvělá služba pro pěstouny od Host. pro NelhoStejnost, z.s."
       },
       {
         "product": "MPSV ČR",
