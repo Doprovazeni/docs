@@ -41,85 +41,109 @@
     ]
   },
   "navigation": {
-    "groups": [
+    "products": [
       {
-        "group": "Úvod",
-        "pages": [
-          "pruvodce",
-          "jak-to-funguje",
-          "nase-mise"
-        ]
-      },
-      {
-        "group": "Naše služby",
-        "pages": [
-          "sluzby/poradenstvi",
-          "sluzby/vzdelavani",
-          "sluzby/odlehcovaci-pece",
-          "sluzby/kratkodoba-pece",
-          "sluzby/kontakt-s-bio-rodinou"
-        ]
-      },
-      {
-        "group": "Tým a region",
-        "pages": [
-          "tym",
-          "region",
-          "kontakt"
-        ]
-      },
-      {
-        "group": "Vzdělávání",
-        "pages": [
-          "vzdelavani/online-kurzy",
-          "vzdelavani/prezencni-kurzy",
-          "vzdelavani/lektori"
-        ]
-      },
-      {
-        "group": "Metodické pokyny",
-        "pages": [
-          "pruvodce-doprovazenim",
-          "kontaktys-puvodni-rodinou",
-          "slovnik-pojmu"
-        ]
-      },
-      {
-        "group": "Změny",
-        "pages": [
-          "zmeny/2026-07-18",
-          "zmeny/2026-07-11",
-          "zmeny/2026-07-04",
-          "zmeny/2026-06-27",
-          "zmeny/2026-06-20",
-          "zmeny/2026-06-13",
-          "zmeny/2026-06-07"
-        ],
-        "hidden": true
-      },
-      {
-        "group": "Novinky",
-        "pages": [
-          "novinky/index"
-        ],
-        "hidden": true
-      },
-      {
-        "group": "Právní informace",
-        "pages": [
-          "gdpr"
-        ]
-      },
-      {
-        "group": "Externí zdroje",
-        "pages": [
+        "product": "Doprovázení.com",
+        "icon": "teddy-bear",
+        "groups": [
+          {
+            "group": "Úvod",
+            "pages": [
+              "pruvodce",
+              "jak-to-funguje",
+              "nase-mise"
+            ]
+          },
+          {
+            "group": "Naše služby",
+            "pages": [
+              "sluzby/poradenstvi",
+              "sluzby/vzdelavani",
+              "sluzby/odlehcovaci-pece",
+              "sluzby/kratkodoba-pece",
+              "sluzby/kontakt-s-bio-rodinou"
+            ]
+          },
+          {
+            "group": "Tým a region",
+            "pages": [
+              "tym",
+              "region",
+              "kontakt"
+            ]
+          },
+          {
+            "group": "Vzdělávání",
+            "pages": [
+              "vzdelavani/online-kurzy",
+              "vzdelavani/prezencni-kurzy",
+              "vzdelavani/lektori"
+            ]
+          },
           {
             "group": "Metodické pokyny",
             "pages": [
-              "realizace-kontaktu-ditete-v-pestounske-peci"
+              "pruvodce-doprovazenim",
+              "kontaktys-puvodni-rodinou",
+              "slovnik-pojmu"
+            ]
+          },
+          {
+            "group": "Změny",
+            "hidden": true,
+            "pages": [
+              "zmeny/2026-07-18",
+              "zmeny/2026-07-11",
+              "zmeny/2026-07-04",
+              "zmeny/2026-06-27",
+              "zmeny/2026-06-20",
+              "zmeny/2026-06-13",
+              "zmeny/2026-06-07"
+            ]
+          },
+          {
+            "group": "Novinky",
+            "hidden": true,
+            "pages": [
+              "novinky/index"
+            ]
+          },
+          {
+            "group": "Právní informace",
+            "pages": [
+              "gdpr"
             ]
           }
-        ]
+        ],
+        "description": "Doprovázení.com je skvělá služba pro pěstouny od Host. pro NelhoStejnost, z.s."
+      },
+      {
+        "product": "MPSV ČR",
+        "pages": [
+          "doprovazeni-pestounu-a-dohody-o-vykonu-pestounske-pece",
+          {
+            "group": "Metodické pokyny",
+            "pages": [
+              "realizace-kontaktu-ditete-v-pestounske-peci",
+              "informace-k-dohodam",
+              "metodika-doprovazeni",
+              "pomoc-pri-osobni-peci",
+              "upresneni-vykladu-respity"
+            ],
+            "icon": "chalkboard-teacher"
+          },
+          {
+            "group": "Informace",
+            "pages": [
+              "statni-prispevek-na-vykon-pestounske-pece",
+              "statni-prispevek-na-vykon-pestounske-pece-instrukce-8-2019",
+              "zapis-z-jednani-mpsv-a-asociace-dite-a-rodina"
+            ],
+            "icon": "school"
+          }
+        ],
+        "icon": "shield-heart",
+        "description": "Informace pocházející z Ministerstva práce s sociálních věcí ČR"
       }
     ]
   },
