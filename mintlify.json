@@ -1,0 +1,192 @@
+﻿{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "Doprovázení",
+  "theme": "mint",
+  "logo": {
+    "light": "/images/doprovazeni__logo__black.svg",
+    "dark": "/images/doprovazeni__logo__white.svg"
+  },
+  "favicon": {
+    "light": "/images/doprovazeni__logo__white.svg",
+    "dark": "/images/doprovazeni__logo__black.svg"
+  },
+  "colors": {
+    "primary": "#16A34A",
+    "light": "#16A34A",
+    "dark": "#16A34A"
+  },
+  "font": {
+    "headings": {
+      "family": "Cardo"
+    },
+    "body": {
+      "family": "Inter"
+    }
+  },
+  "navbar": {
+    "primary": {
+      "type": "button",
+      "label": "Kontaktujte nás",
+      "href": "https://forms.gle/byypLL4jHWes1a4B8"
+    },
+    "links": [
+      {
+        "href": "https://www.doprovazeni.com/",
+        "label": "Web"
+      },
+      {
+        "href": "https://blog.doprovazeni.com/",
+        "label": "Blog"
+      }
+    ]
+  },
+  "footer": {
+    "socials": {
+      "facebook": "https://www.facebook.com/profile.php?id=61588246142192",
+      "instagram": "https://www.instagram.com/doprovazeni"
+    }
+  },
+  "metadata": {
+    "timestamp": true
+  },
+  "contextual": {
+    "options": [
+      "copy",
+      "assistant",
+      "view",
+      "download-pdf",
+      "chatgpt",
+      "claude",
+      "aistudio"
+    ],
+    "display": "toc"
+  },
+  "search": {
+    "prompt": "Hledejte nebo se zeptejte ..."
+  },
+  "markdown": {
+    "schema": true
+  },
+  "navigation": [
+    {
+      "group": "O doprovázení",
+      "pages": [
+        "o-doprovazeni/co-je-doprovazeni",
+        "o-doprovazeni/cile-doprovazeni",
+        "o-doprovazeni/historie-doprovazeni",
+        "o-doprovazeni/zakladni-principy-doprovazeni",
+        "o-doprovazeni/role-doprovazejici-organisace",
+        "o-doprovazeni/klicovy-socialni-pracovnik"
+      ]
+    },
+    {
+      "group": "Dohoda o výkonu PP",
+      "pages": [
+        "pestounska-pece/dohoda/co-je-dohoda",
+        "pestounska-pece/dohoda/uzavreni-dohody",
+        "pestounska-pece/dohoda/zmena-dohody",
+        "pestounska-pece/dohoda/ukonceni-dohody",
+        "pestounska-pece/dohoda/zmena-doprovazejici-organizace"
+      ]
+    },
+    {
+      "group": "Práva a povinnosti",
+      "pages": [
+        "pestounska-pece/prava-povinnosti/prava-osoby-pecujici",
+        "pestounska-pece/prava-povinnosti/povinnosti-osoby-pecujici"
+      ]
+    },
+    {
+      "group": "Podpora rodin",
+      "pages": [
+        "pestounska-pece/podpora/pomoc-pri-osobni-peci",
+        "pestounska-pece/podpora/vzdelavani-pestounu",
+        "pestounska-pece/podpora/odlehcovaci-pece",
+        "pestounska-pece/podpora/psychologicka-pomoc"
+      ]
+    },
+    {
+      "group": "Dítě a rodina",
+      "pages": [
+        "dite-a-rodina/dite/prava-ditete",
+        "dite-a-rodina/dite/participace-ditete",
+        "dite-a-rodina/dite/trauma-a-attachment",
+        "dite-a-rodina/dite/syndrom-zavrzeneho-rodice",
+        "dite-a-rodina/dite/knihy-zivota",
+        "dite-a-rodina/kontakty/realizace-kontaktu",
+        "dite-a-rodina/kontakty/asistovane-kontakty"
+      ]
+    },
+    {
+      "group": "Pro odborníky",
+      "pages": [
+        "pro-odborniky/organizace/standardy-kvality",
+        "pro-odborniky/klicovi-pracovnici/individualni-planovani",
+        "pro-odborniky/financovani-spvpp",
+        "pro-odborniky/organizace/veden-spisove-dokumentace"
+      ]
+    },
+    {
+      "group": "Zákony a legislativa",
+      "pages": [
+        "pro-odborniky/legislativa/zakon-o-spod",
+        "pro-odborniky/legislativa/obcansky-zakonik",
+        "pro-odborniky/legislativa/vyhlaska-473-2012",
+        "pro-odborniky/legislativa/zakon-o-zzrs",
+        "pro-odborniky/legislativa/obcansky-soudni-rad"
+      ]
+    },
+    {
+      "group": "Judikatura",
+      "pages": [
+        "judikatura/ustavni-soud/pravo-na-rodinny-zivot",
+        "judikatura/nejvyssi-spravni-soud/ospod",
+        "judikatura/eslp/odebrani-ditete"
+      ]
+    },
+    {
+      "group": "Průvodce a Návody",
+      "pages": [
+        "pro-pestouny/pruvodce/prvni-kroky",
+        "pro-pestouny/pruvodce/jak-funguje-doprovazeni",
+        "pro-pestouny/pruvodce/skola",
+        "pro-pestouny/pruvodce/zdravotni-pece",
+        "pro-pestouny/pruvodce/puberta",
+        "pro-pestouny/pruvodce/krizove-situace",
+        "pro-pestouny/navody/jak-zmenit-doprovazejici-organizaci",
+        "pro-pestouny/navody/jak-pozadat-o-pomoc",
+        "pro-pestouny/navody/jak-podat-stiznost",
+        "pro-pestouny/navody/jak-komunikovat-s-osztod",
+        "pro-pestouny/navody/jak-resit-problemy-ve-skole",
+        "pro-pestouny/faq/financovani",
+        "pro-pestouny/faq/vztahy",
+        "pro-pestouny/faq/skola"
+      ]
+    },
+    {
+      "group": "Slovník pojmů",
+      "pages": [
+        "slovnik/osoba-pecujici",
+        "slovnik/osoba-v-evidenci",
+        "slovnik/ou-orp",
+        "slovnik/kolizni-opatrovnik",
+        "slovnik/porucnik-s-osobni-peci",
+        "slovnik/poverena-osoba"
+      ]
+    },
+    {
+      "group": "O organizaci",
+      "pages": [
+        "o-organizaci/poslani-a-hodnoty"
+      ]
+    },
+    {
+      "group": "Archiv MPSV",
+      "pages": [
+        "archiv-mpsv/instrukce-2025-spvpp",
+        "archiv-mpsv/zapis-adar-2025",
+        "archiv-mpsv/vyklad-respitu-2025"
+      ]
+    }
+  ]
+}
