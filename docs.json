@@ -67,37 +67,6 @@
   "markdown": {
     "schema": true
   },
-  "styling": {
-    "eyebrows": "section",
-    "latex": true,
-    "codeblocks": {
-      "theme": {
-        "light": "min-light",
-        "dark": "min-dark"
-      },
-      "languages": {
-        "custom": [
-          ""
-        ]
-      }
-    }
-  },
-  "icons": {
-    "library": "fontawesome"
-  },
-  "api": {
-    "examples": {
-      "languages": [
-        ""
-      ]
-    }
-  },
-  "background": {
-    "color": {
-      "light": "#FFFFFF",
-      "dark": "#000000"
-    }
-  },
   "navigation": [
     {
       "group": "O doprovázení",
