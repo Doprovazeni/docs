@@ -112,36 +112,11 @@
                 ]
               },
               {
-                "group": "Změny",
-                "hidden": true,
-                "pages": [
-                  "zmeny/2026-07-18",
-                  "zmeny/2026-07-11",
-                  "zmeny/2026-07-04",
-                  "zmeny/2026-06-27",
-                  "zmeny/2026-06-20",
-                  "zmeny/2026-06-13",
-                  "zmeny/2026-06-07"
-                ]
-              },
-              {
-                "group": "Novinky",
-                "hidden": true,
-                "pages": [
-                  "novinky/index"
-                ]
-              },
-              {
-                "group": "Právní informace",
-                "pages": [
-                  "gdpr"
-                ],
-                "hidden": true
-              },
-              {
                 "group": "Metodické pokyny",
                 "icon": "chalkboard-teacher",
                 "pages": [
+                  "slovnik-pojmu",
+                  "dohody",
                   {
                     "group": "Kontakty s rodinou (BIG2)",
                     "pages": [
@@ -156,7 +131,6 @@
                       "9"
                     ]
                   },
-                  "dohody",
                   {
                     "group": "OLD Kontakty s rodinou (BIG)",
                     "pages": [
@@ -167,11 +141,7 @@
                     ],
                     "hidden": true
                   },
-                  "kontaktys-puvodni-rodinou",
-                  "informace-k-dohodam",
-                  "metodika-doprovazeni",
-                  "pomoc-pri-osobni-peci",
-                  "upresneni-vykladu-respity"
+                  "kontaktys-puvodni-rodinou"
                 ]
               },
               {
@@ -179,7 +149,8 @@
                 "pages": [
                   "zdroje-mpsv-do-kontaktu-rodinou",
                   "upozorneni-na-syntezu-zdroju-mpsv"
-                ]
+                ],
+                "hidden": true
               }
             ]
           }
@@ -187,7 +158,6 @@
       },
       {
         "tab": "Dokumentace",
-        "hidden": true,
         "products": [
           {
             "product": "Pro odborníky",
@@ -195,26 +165,70 @@
             "description": "Informace pocházející z Ministerstva práce s sociálních věcí ČR",
             "anchors": [
               {
-                "anchor": "test",
+                "anchor": "MPSV ČR",
                 "pages": [
                   {
                     "group": "Informace",
                     "icon": "school",
-                    "pages": [
-                      "statni-prispevek-na-vykon-pestounske-pece",
-                      "statni-prispevek-na-vykon-pestounske-pece-instrukce-8-2019",
-                      "zapis-z-jednani-mpsv-a-asociace-dite-a-rodina"
-                    ]
+                    "pages": []
                   },
                   {
                     "group": "Metodické pokyny",
-                    "pages": [
-                      "pruvodce-doprovazenim",
-                      "realizace-kontaktu-ditete-v-pestounske-peci",
-                      "slovnik-pojmu"
-                    ]
-                  },
-                  "doprovazeni-pestounu-a-dohody-o-vykonu-pestounske-pece"
+                    "pages": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Neviditelné a staré",
+        "hidden": true,
+        "pages": [
+          {
+            "group": "Právní informace",
+            "hidden": true,
+            "pages": [
+              "gdpr"
+            ]
+          },
+          {
+            "group": "Novinky",
+            "hidden": true,
+            "pages": [
+              "novinky/index"
+            ]
+          },
+          {
+            "group": "Změny",
+            "hidden": true,
+            "pages": [
+              "zmeny/2026-07-18",
+              "zmeny/2026-07-11",
+              "zmeny/2026-07-04",
+              "zmeny/2026-06-27",
+              "zmeny/2026-06-20",
+              "zmeny/2026-06-13",
+              "zmeny/2026-06-07"
+            ]
+          },
+          {
+            "group": "Zdroje",
+            "pages": [
+              {
+                "group": "MPSV",
+                "pages": [
+                  "doprovazeni-pestounu-a-dohody-o-vykonu-pestounske-pece",
+                  "zapis-z-jednani-mpsv-a-asociace-dite-a-rodina",
+                  "statni-prispevek-na-vykon-pestounske-pece",
+                  "statni-prispevek-na-vykon-pestounske-pece-instrukce-8-2019",
+                  "upresneni-vykladu-respity",
+                  "informace-k-dohodam",
+                  "pomoc-pri-osobni-peci",
+                  "metodika-doprovazeni",
+                  "pruvodce-doprovazenim",
+                  "realizace-kontaktu-ditete-v-pestounske-peci"
                 ]
               }
             ]
