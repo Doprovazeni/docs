@@ -71,114 +71,95 @@
     "tabs": [
       {
         "tab": "Pro pěstouny",
-        "products": [
+        "pages": [
           {
-            "product": "Doprovázení.com",
-            "icon": "teddy-bear",
-            "description": "Doprovázení.com je skvělá služba pro pěstouny od Host. pro NelhoStejnost, z.s.",
+            "group": "Úvod",
             "pages": [
+              "pruvodce",
+              "jak-to-funguje",
+              "nase-mise"
+            ]
+          },
+          {
+            "group": "Naše služby",
+            "pages": [
+              "sluzby/poradenstvi",
+              "sluzby/vzdelavani",
+              "sluzby/odlehcovaci-pece",
+              "sluzby/kratkodoba-pece",
+              "sluzby/kontakt-s-bio-rodinou"
+            ]
+          },
+          {
+            "group": "Tým a region",
+            "pages": [
+              "tym",
+              "region",
+              "kontakt"
+            ]
+          },
+          {
+            "group": "Vzdělávání",
+            "pages": [
+              "vzdelavani/online-kurzy",
+              "vzdelavani/prezencni-kurzy",
+              "vzdelavani/lektori"
+            ]
+          },
+          {
+            "group": "Metodické pokyny",
+            "icon": "chalkboard-teacher",
+            "pages": [
+              "slovnik-pojmu",
+              "dohody",
               {
-                "group": "Úvod",
+                "group": "Kontakty s rodinou (BIG2)",
                 "pages": [
-                  "pruvodce",
-                  "jak-to-funguje",
-                  "nase-mise"
+                  "k1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9"
                 ]
               },
               {
-                "group": "Naše služby",
+                "group": "OLD Kontakty s rodinou (BIG)",
+                "hidden": true,
                 "pages": [
-                  "sluzby/poradenstvi",
-                  "sluzby/vzdelavani",
-                  "sluzby/odlehcovaci-pece",
-                  "sluzby/kratkodoba-pece",
-                  "sluzby/kontakt-s-bio-rodinou"
+                  "kr-01",
+                  "kr-02",
+                  "kr-3",
+                  "kr-4"
                 ]
               },
-              {
-                "group": "Tým a region",
-                "pages": [
-                  "tym",
-                  "region",
-                  "kontakt"
-                ]
-              },
-              {
-                "group": "Vzdělávání",
-                "pages": [
-                  "vzdelavani/online-kurzy",
-                  "vzdelavani/prezencni-kurzy",
-                  "vzdelavani/lektori"
-                ]
-              },
-              {
-                "group": "Metodické pokyny",
-                "icon": "chalkboard-teacher",
-                "pages": [
-                  "slovnik-pojmu",
-                  "dohody",
-                  {
-                    "group": "Kontakty s rodinou (BIG2)",
-                    "pages": [
-                      "k1",
-                      "2",
-                      "3",
-                      "4",
-                      "5",
-                      "6",
-                      "7",
-                      "8",
-                      "9"
-                    ]
-                  },
-                  {
-                    "group": "OLD Kontakty s rodinou (BIG)",
-                    "pages": [
-                      "kr-01",
-                      "kr-02",
-                      "kr-3",
-                      "kr-4"
-                    ],
-                    "hidden": true
-                  },
-                  "kontaktys-puvodni-rodinou"
-                ]
-              },
-              {
-                "group": "_snippets",
-                "pages": [
-                  "zdroje-mpsv-do-kontaktu-rodinou",
-                  "upozorneni-na-syntezu-zdroju-mpsv"
-                ],
-                "hidden": true
-              }
+              "kontaktys-puvodni-rodinou"
+            ]
+          },
+          {
+            "group": "_snippets",
+            "hidden": true,
+            "pages": [
+              "zdroje-mpsv-do-kontaktu-rodinou",
+              "upozorneni-na-syntezu-zdroju-mpsv"
             ]
           }
         ]
       },
       {
         "tab": "Dokumentace",
-        "products": [
+        "pages": [
           {
-            "product": "Pro odborníky",
-            "icon": "shield-heart",
-            "description": "Informace pocházející z Ministerstva práce s sociálních věcí ČR",
-            "anchors": [
-              {
-                "anchor": "MPSV ČR",
-                "pages": [
-                  {
-                    "group": "Informace",
-                    "icon": "school",
-                    "pages": []
-                  },
-                  {
-                    "group": "Metodické pokyny",
-                    "pages": []
-                  }
-                ]
-              }
-            ]
+            "group": "Informace",
+            "icon": "school",
+            "pages": []
+          },
+          {
+            "group": "Metodické pokyny",
+            "pages": []
           }
         ]
       },
