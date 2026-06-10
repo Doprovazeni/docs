@@ -150,11 +150,6 @@
                 "group": "Metodické pokyny",
                 "icon": "chalkboard-teacher",
                 "pages": [
-                  "kontaktys-puvodni-rodinou",
-                  "informace-k-dohodam",
-                  "metodika-doprovazeni",
-                  "pomoc-pri-osobni-peci",
-                  "upresneni-vykladu-respity",
                   {
                     "group": "Kontakty s rodinou (BIG)",
                     "pages": [
@@ -162,6 +157,25 @@
                       "kr-02",
                       "kr-3",
                       "kr-4"
+                    ]
+                  },
+                  "kontaktys-puvodni-rodinou",
+                  "informace-k-dohodam",
+                  "metodika-doprovazeni",
+                  "pomoc-pri-osobni-peci",
+                  "upresneni-vykladu-respity",
+                  {
+                    "group": "Kontakty s rodinou (BIG2)",
+                    "pages": [
+                      "k1",
+                      "2",
+                      "3",
+                      "4",
+                      "5",
+                      "6",
+                      "7",
+                      "8",
+                      "9"
                     ]
                   }
                 ]
