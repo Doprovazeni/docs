@@ -135,35 +135,13 @@
                 "group": "Právní informace",
                 "pages": [
                   "gdpr"
-                ]
-              },
-              {
-                "group": "Informace",
-                "icon": "school",
-                "pages": [
-                  "statni-prispevek-na-vykon-pestounske-pece",
-                  "statni-prispevek-na-vykon-pestounske-pece-instrukce-8-2019",
-                  "zapis-z-jednani-mpsv-a-asociace-dite-a-rodina"
-                ]
+                ],
+                "hidden": true
               },
               {
                 "group": "Metodické pokyny",
                 "icon": "chalkboard-teacher",
                 "pages": [
-                  {
-                    "group": "Kontakty s rodinou (BIG)",
-                    "pages": [
-                      "kr-01",
-                      "kr-02",
-                      "kr-3",
-                      "kr-4"
-                    ]
-                  },
-                  "kontaktys-puvodni-rodinou",
-                  "informace-k-dohodam",
-                  "metodika-doprovazeni",
-                  "pomoc-pri-osobni-peci",
-                  "upresneni-vykladu-respity",
                   {
                     "group": "Kontakty s rodinou (BIG2)",
                     "pages": [
@@ -177,7 +155,22 @@
                       "8",
                       "9"
                     ]
-                  }
+                  },
+                  {
+                    "group": "OLD Kontakty s rodinou (BIG)",
+                    "pages": [
+                      "kr-01",
+                      "kr-02",
+                      "kr-3",
+                      "kr-4"
+                    ],
+                    "hidden": true
+                  },
+                  "kontaktys-puvodni-rodinou",
+                  "informace-k-dohodam",
+                  "metodika-doprovazeni",
+                  "pomoc-pri-osobni-peci",
+                  "upresneni-vykladu-respity"
                 ]
               },
               {
@@ -203,6 +196,15 @@
               {
                 "anchor": "test",
                 "pages": [
+                  {
+                    "group": "Informace",
+                    "icon": "school",
+                    "pages": [
+                      "statni-prispevek-na-vykon-pestounske-pece",
+                      "statni-prispevek-na-vykon-pestounske-pece-instrukce-8-2019",
+                      "zapis-z-jednani-mpsv-a-asociace-dite-a-rodina"
+                    ]
+                  },
                   {
                     "group": "Metodické pokyny",
                     "pages": [
