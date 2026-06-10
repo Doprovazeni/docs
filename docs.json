@@ -112,14 +112,6 @@
                 ]
               },
               {
-                "group": "Metodické pokyny",
-                "pages": [
-                  "pruvodce-doprovazenim",
-                  "kontaktys-puvodni-rodinou",
-                  "slovnik-pojmu"
-                ]
-              },
-              {
                 "group": "Změny",
                 "hidden": true,
                 "pages": [
@@ -158,11 +150,20 @@
                 "group": "Metodické pokyny",
                 "icon": "chalkboard-teacher",
                 "pages": [
-                  "realizace-kontaktu-ditete-v-pestounske-peci",
+                  "kontaktys-puvodni-rodinou",
                   "informace-k-dohodam",
                   "metodika-doprovazeni",
                   "pomoc-pri-osobni-peci",
-                  "upresneni-vykladu-respity"
+                  "upresneni-vykladu-respity",
+                  {
+                    "group": "Kontakty s rodinou (BIG)",
+                    "pages": [
+                      "kr-01",
+                      "kr-02",
+                      "kr-3",
+                      "kr-4"
+                    ]
+                  }
                 ]
               }
             ]
@@ -181,6 +182,14 @@
               {
                 "anchor": "test",
                 "pages": [
+                  {
+                    "group": "Metodické pokyny",
+                    "pages": [
+                      "pruvodce-doprovazenim",
+                      "realizace-kontaktu-ditete-v-pestounske-peci",
+                      "slovnik-pojmu"
+                    ]
+                  },
                   "doprovazeni-pestounu-a-dohody-o-vykonu-pestounske-pece"
                 ]
               }
