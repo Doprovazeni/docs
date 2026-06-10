@@ -179,6 +179,13 @@
                     ]
                   }
                 ]
+              },
+              "snippets",
+              {
+                "group": "_snippets",
+                "pages": [
+                  "zdroje-mpsv-do-kontaktus-rodinou"
+                ]
               }
             ]
           }
