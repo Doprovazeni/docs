@@ -236,5 +236,12 @@
         ]
       }
     ]
+  },
+  "icons": {
+    "library": "fontawesome"
+  },
+  "banner": {
+    "content": "Omlouváme se, ale nyní je naše kapacita naplněna. Ale nevěšte hlavu a napište nám svůj kontakt{target=\"_blank\" rel=\"noopener noreferrer\"}.",
+    "type": "warning"
   }
 }
