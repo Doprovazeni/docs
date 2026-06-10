@@ -52,12 +52,8 @@
   "contextual": {
     "options": [
       "copy",
-      "assistant",
-      "view",
       "download-pdf",
-      "chatgpt",
-      "claude",
-      "aistudio"
+      "chatgpt"
     ],
     "display": "toc"
   },
@@ -223,6 +219,11 @@
   },
   "banner": {
     "content": "Omlouváme se, ale nyní je naše kapacita naplněna. Ale nevěšte hlavu a [napište nám svůj kontakt](https://docs.google.com/forms/d/e/1FAIpQLSdIJzX-ISZzQN2Y8jpnb0Pyf-NiFeZieU7Nt-6uWkf71vqCCQ/viewform?pli=1).",
-    "type": "warning"
+    "type": "info"
+  },
+  "integrations": {
+    "ga4": {
+      "measurementId": "G-WYS8HPB74V"
+    }
   }
 }
