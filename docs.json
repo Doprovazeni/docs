@@ -67,126 +67,125 @@
   "markdown": {
     "schema": true
   },
-  "navigation": [
-    {
-      "group": "O doprovázení",
-      "pages": [
-        "o-doprovazeni/co-je-doprovazeni",
-        "o-doprovazeni/cile-doprovazeni",
-        "o-doprovazeni/historie-doprovazeni",
-        "o-doprovazeni/zakladni-principy-doprovazeni",
-        "o-doprovazeni/role-doprovazejici-organisace",
-        "o-doprovazeni/klicovy-socialni-pracovnik"
-      ]
-    },
-    {
-      "group": "Dohoda o výkonu PP",
-      "pages": [
-        "pestounska-pece/dohoda/co-je-dohoda",
-        "pestounska-pece/dohoda/uzavreni-dohody",
-        "pestounska-pece/dohoda/zmena-dohody",
-        "pestounska-pece/dohoda/ukonceni-dohody",
-        "pestounska-pece/dohoda/zmena-doprovazejici-organizace"
-      ]
-    },
-    {
-      "group": "Práva a povinnosti",
-      "pages": [
-        "pestounska-pece/prava-povinnosti/prava-osoby-pecujici",
-        "pestounska-pece/prava-povinnosti/povinnosti-osoby-pecujici"
-      ]
-    },
-    {
-      "group": "Podpora rodin",
-      "pages": [
-        "pestounska-pece/podpora/pomoc-pri-osobni-peci",
-        "pestounska-pece/podpora/vzdelavani-pestounu",
-        "pestounska-pece/podpora/odlehcovaci-pece",
-        "pestounska-pece/podpora/psychologicka-pomoc"
-      ]
-    },
-    {
-      "group": "Dítě a rodina",
-      "pages": [
-        "dite-a-rodina/dite/prava-ditete",
-        "dite-a-rodina/dite/participace-ditete",
-        "dite-a-rodina/dite/trauma-a-attachment",
-        "dite-a-rodina/dite/syndrom-zavrzeneho-rodice",
-        "dite-a-rodina/dite/knihy-zivota",
-        "dite-a-rodina/kontakty/realizace-kontaktu",
-        "dite-a-rodina/kontakty/asistovane-kontakty"
-      ]
-    },
-    {
-      "group": "Pro odborníky",
-      "pages": [
-        "pro-odborniky/organizace/standardy-kvality",
-        "pro-odborniky/klicovi-pracovnici/individualni-planovani",
-        "pro-odborniky/financovani-spvpp",
-        "pro-odborniky/organizace/veden-spisove-dokumentace"
-      ]
-    },
-    {
-      "group": "Zákony a legislativa",
-      "pages": [
-        "pro-odborniky/legislativa/zakon-o-spod",
-        "pro-odborniky/legislativa/obcansky-zakonik",
-        "pro-odborniky/legislativa/vyhlaska-473-2012",
-        "pro-odborniky/legislativa/zakon-o-zzrs",
-        "pro-odborniky/legislativa/obcansky-soudni-rad"
-      ]
-    },
-    {
-      "group": "Judikatura",
-      "pages": [
-        "judikatura/ustavni-soud/pravo-na-rodinny-zivot",
-        "judikatura/nejvyssi-spravni-soud/ospod",
-        "judikatura/eslp/odebrani-ditete"
-      ]
-    },
-    {
-      "group": "Průvodce a Návody",
-      "pages": [
-        "pro-pestouny/pruvodce/prvni-kroky",
-        "pro-pestouny/pruvodce/jak-funguje-doprovazeni",
-        "pro-pestouny/pruvodce/skola",
-        "pro-pestouny/pruvodce/zdravotni-pece",
-        "pro-pestouny/pruvodce/puberta",
-        "pro-pestouny/pruvodce/krizove-situace",
-        "pro-pestouny/navody/jak-zmenit-doprovazejici-organizaci",
-        "pro-pestouny/navody/jak-pozadat-o-pomoc",
-        "pro-pestouny/navody/jak-podat-stiznost",
-        "pro-pestouny/navody/jak-komunikovat-s-ospod",
-        "pro-pestouny/navody/jak-resit-problemy-ve-skole",
-        "pro-pestouny/faq/financovani",
-        "pro-pestouny/faq/vztahy",
-        "pro-pestouny/faq/skola"
-      ]
-    },
-    {
-      "group": "Slovník pojmů",
-      "pages": [
-        "slovnik/osoba-pecujici",
-        "slovnik/osoba-v-evidenci",
-        "slovnik/ou-orp",
-        "slovnik/kolizni-opatrovnik",
-        "slovnik/porucnik-s-osobni-peci",
-        "slovnik/poverena-osoba"
-      ]
-    },
-    {
-      "group": "O organizaci",
-      "pages": [
-        "o-organizaci/poslani-a-hodnoty"
-      ]
-    },
-    {
-      "group": "Archiv MPSV",
-      "pages": [
-        "archiv-mpsv/instrukce-2025-spvpp",
-        "archiv-mpsv/zapis-adar-2025",
-        "archiv-mpsv/vyklad-respitu-2025"
-      ]
-    }
-  ]
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Pro pěstouny",
+        "products": [
+          {
+            "product": "Doprovázení.com",
+            "icon": "teddy-bear",
+            "description": "Doprovázení.com je skvělá služba pro pěstouny od Host. pro NelhoStejnost, z.s.",
+            "pages": [
+              {
+                "group": "Úvod",
+                "pages": [
+                  "pruvodce",
+                  "jak-to-funguje",
+                  "nase-mise"
+                ]
+              },
+              {
+                "group": "Naše služby",
+                "pages": [
+                  "sluzby/poradenstvi",
+                  "sluzby/vzdelavani",
+                  "sluzby/odlehcovaci-pece",
+                  "sluzby/kratkodoba-pece",
+                  "sluzby/kontakt-s-bio-rodinou"
+                ]
+              },
+              {
+                "group": "Tým a region",
+                "pages": [
+                  "tym",
+                  "region",
+                  "kontakt"
+                ]
+              },
+              {
+                "group": "Vzdělávání",
+                "pages": [
+                  "vzdelavani/online-kurzy",
+                  "vzdelavani/prezencni-kurzy",
+                  "vzdelavani/lektori"
+                ]
+              },
+              {
+                "group": "Metodické pokyny",
+                "pages": [
+                  "pruvodce-doprovazenim",
+                  "kontaktys-puvodni-rodinou",
+                  "slovnik-pojmu"
+                ]
+              },
+              {
+                "group": "Změny",
+                "hidden": true,
+                "pages": [
+                  "zmeny/2026-07-18",
+                  "zmeny/2026-07-11",
+                  "zmeny/2026-07-04",
+                  "zmeny/2026-06-27",
+                  "zmeny/2026-06-20",
+                  "zmeny/2026-06-13",
+                  "zmeny/2026-06-07"
+                ]
+              },
+              {
+                "group": "Novinky",
+                "hidden": true,
+                "pages": [
+                  "novinky/index"
+                ]
+              },
+              {
+                "group": "Právní informace",
+                "pages": [
+                  "gdpr"
+                ]
+              },
+              "doprovazeni-pestounu-a-dohody-o-vykonu-pestounske-pece",
+              {
+                "group": "Informace",
+                "icon": "school",
+                "pages": [
+                  "statni-prispevek-na-vykon-pestounske-pece",
+                  "statni-prispevek-na-vykon-pestounske-pece-instrukce-8-2019",
+                  "zapis-z-jednani-mpsv-a-asociace-dite-a-rodina"
+                ]
+              },
+              {
+                "group": "Metodické pokyny",
+                "icon": "chalkboard-teacher",
+                "pages": [
+                  "realizace-kontaktu-ditete-v-pestounske-peci",
+                  "informace-k-dohodam",
+                  "metodika-doprovazeni",
+                  "pomoc-pri-osobni-peci",
+                  "upresneni-vykladu-respity"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "xxx",
+        "hidden": true,
+        "products": [
+          {
+            "product": "Pro odborníky",
+            "icon": "shield-heart",
+            "description": "Informace pocházející z Ministerstva práce s sociálních věcí ČR",
+            "anchors": [
+              {
+                "anchor": "test"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }
