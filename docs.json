@@ -109,7 +109,7 @@
               "slovnik-pojmu",
               "dohody",
               {
-                "group": "Kontakty s rodinou (BIG2)",
+                "group": "Jak na kontakty s rodinou",
                 "pages": [
                   "k1",
                   "2",
@@ -120,7 +120,8 @@
                   "7",
                   "8",
                   "9"
-                ]
+                ],
+                "icon": "family"
               },
               {
                 "group": "OLD Kontakty s rodinou (BIG)",
