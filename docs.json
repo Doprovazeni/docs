@@ -160,7 +160,13 @@
             "pages": [
               "archiv-mpsv/instrukce-2025-spvpp",
               "archiv-mpsv/vyklad-respitu-2025",
-              "archiv-mpsv/zapis-adar-2025"
+              "archiv-mpsv/zapis-adar-2025",
+              {
+                "group": "Čerpání SPVPP",
+                "pages": [
+                  "untitled-page"
+                ]
+              }
             ]
           }
         ]
