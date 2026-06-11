@@ -165,7 +165,9 @@
                 "group": "Čerpání SPVPP",
                 "pages": [
                   "index",
-                  "respity"
+                  "respity",
+                  "vzdelavani-poradenstvi",
+                  "provozni-naklady"
                 ]
               }
             ]
