@@ -133,7 +133,6 @@
                   "kr-4"
                 ]
               },
-              "kontaktys-puvodni-rodinou",
               "mpsv-cr-doprovazeni"
             ]
           },
@@ -216,9 +215,8 @@
           },
           {
             "group": "Metodiky MPSV",
-            "pages": [
-              "archiv-mpsv/vyklad-respitu-2025"
-            ]
+            "pages": [],
+            "hidden": true
           }
         ]
       },
