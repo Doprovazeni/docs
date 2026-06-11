@@ -168,8 +168,36 @@
                   "provoz-a-naklady",
                   "kontrola-vyuctovani",
                   "souhr-spvpp",
-                  "archiv-mpsv/instrukce-2025-spvpp",
-                  "archiv-mpsv/zapis-adar-2025"
+                  {
+                    "group": "MPSV zdroje",
+                    "pages": [
+                      "archiv-mpsv/informace-mpsv-www",
+                      "archiv-mpsv/instrukce-2025-spvpp",
+                      "archiv-mpsv/zapis-adar-2025",
+                      "archiv-mpsv/metodika-doprovazeni-mpsv",
+                      "archiv-mpsv/informace-k-dohodam-mpsv-2023",
+                      "archiv-mpsv/kontakt-ditete-v-pps-pribuznymi",
+                      {
+                        "group": "Formuláře & Vzory",
+                        "icon": "globe-www",
+                        "pages": [
+                          "archiv-mpsv/zadost-o-prispevek-na-pp",
+                          "archiv-mpsv/hlaseni-zmen-formular",
+                          "archiv-mpsv/seznam-osob-pecujicich",
+                          "archiv-mpsv/vzor-spravniho-rozhodnuti-2013",
+                          "archiv-mpsv/prehled-cerpani-spvpp-vzor",
+                          "archiv-mpsv/prehled-cerpani-spvpp-doporuceni-2026"
+                        ]
+                      },
+                      {
+                        "group": "Staré",
+                        "pages": [
+                          "archiv-mpsv/informace-k-dohodam-mpsv-2013",
+                          "archiv-mpsv/instrukce-mpsv-8-2019-zruseno"
+                        ]
+                      }
+                    ]
+                  }
                 ]
               }
             ]
