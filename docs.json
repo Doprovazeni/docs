@@ -149,8 +149,9 @@
       {
         "tab": "Dokumentace",
         "pages": [
+          "archiv-mpsv/index",
           {
-            "group": "Standardy",
+            "group": "Standardy kvality",
             "pages": [
               "standardy-index",
               "standardy-01",
@@ -172,7 +173,6 @@
               "standardy-souhrn"
             ]
           },
-          "archiv-mpsv/index",
           {
             "group": "Respit (2026)",
             "pages": [
