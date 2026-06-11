@@ -110,6 +110,7 @@
               "dohody",
               {
                 "group": "Jak na kontakty s rodinou",
+                "icon": "family",
                 "pages": [
                   "k1",
                   "2",
@@ -120,8 +121,7 @@
                   "7",
                   "8",
                   "9"
-                ],
-                "icon": "family"
+                ]
               },
               {
                 "group": "OLD Kontakty s rodinou (BIG)",
@@ -150,6 +150,7 @@
       {
         "tab": "Dokumentace",
         "pages": [
+          "archiv-mpsv/index",
           {
             "group": "Informace",
             "icon": "school",
@@ -193,7 +194,7 @@
               {
                 "group": "Čerpání SPVPP",
                 "pages": [
-                  "index",
+                  "cerpani-spvpp-prehled",
                   "respity",
                   "vzdelavani-poradenstvi",
                   "provoz-a-naklady",
