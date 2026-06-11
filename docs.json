@@ -103,7 +103,7 @@
             ]
           },
           {
-            "group": "Metodika práce",
+            "group": "Metodiky práce",
             "icon": "chalkboard-teacher",
             "pages": [
               "slovnik-pojmu",
@@ -228,7 +228,11 @@
   },
   "banner": {
     "content": "Omlouváme se, ale nyní je naše kapacita naplněna. Ale nevěšte hlavu a [napište nám svůj kontakt](https://docs.google.com/forms/d/e/1FAIpQLSdIJzX-ISZzQN2Y8jpnb0Pyf-NiFeZieU7Nt-6uWkf71vqCCQ/viewform?pli=1).",
-    "type": "info"
+    "type": "info",
+    "color": {
+      "light": "#f7dd00",
+      "dark": "#f7dd00"
+    }
   },
   "integrations": {
     "ga4": {
