@@ -149,6 +149,29 @@
       {
         "tab": "Dokumentace",
         "pages": [
+          {
+            "group": "Standardy",
+            "pages": [
+              "standardy-index",
+              "standardy-01",
+              "standardy-02",
+              "standardy-03",
+              "standardy-04",
+              "standardy-05",
+              "standardy-06",
+              "standardy-07",
+              "standardy-08",
+              "standardy-09",
+              "standardy-10",
+              "standardy-11",
+              "standardy-12",
+              "standardy-13",
+              "standardy-14",
+              "standardy-15",
+              "standardy-16",
+              "standardy-souhrn"
+            ]
+          },
           "archiv-mpsv/index",
           {
             "group": "Respit (2026)",
