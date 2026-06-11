@@ -208,7 +208,8 @@
               {
                 "group": "Respit podrobně",
                 "pages": [
-                  "doc-respit-uvod"
+                  "doc-respit-uvod",
+                  "doc-respit-celodenni"
                 ]
               }
             ]
