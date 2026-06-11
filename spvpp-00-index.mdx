@@ -1,0 +1,120 @@
+---
+title: "Metodická příručka SPVPP"
+sidebarTitle: "Přehled (Index)"
+description: "Hlavní rozcestník interní dokumentace pro správu, čerpání a kontrolu Státního příspěvku na výkon pěstounské péče."
+---
+
+import { Card, CardGroup, Callout } from '@mintlify/components';
+
+# Metodická příručka SPVPP (2026)
+
+Tato interní příručka sjednocuje všechny závazné metodické postupy doprovázející organizace pro správu Státního příspěvku na výkon pěstounské péče (SPVPP).  
+Dokumentace je plně harmonizována s legislativou roku **2026**, Instrukcí MPSV VŘ2 č. 3/2025, vyhláškou č. 473/2012 Sb. a metodickými výstupy MPSV–ADaR.
+
+Slouží jako závazný podklad pro management, klíčové sociální pracovníky i ekonomický úsek.
+
+---
+
+## 🗺️ Struktura dokumentace (Rychlá navigace)
+
+<CardGroup cols={1}>
+
+  <Card 
+    title="1. Úvod a legislativní rámec" 
+    icon="gavel" 
+    href="/spvpp-01-cerpani-spvpp-prehled"
+  >
+    Základní právní rámec, procentuální koridory vyhlášky, přestupky dle § 59f a principy čerpání SPVPP.
+  </Card>
+
+  <Card 
+    title="2. Respitní péče a hlídání" 
+    icon="hands-holding-child" 
+    href="/spvpp-02-respity"
+  >
+    Krátkodobá a celodenní péče, limity (3 800 Kč / 600 Kč), smluvní zajištění, auditní stopa a pravidla spoluúčasti.
+  </Card>
+
+  <Card 
+    title="3. Vzdělávání a odborná pomoc" 
+    icon="graduation-cap" 
+    href="/spvpp-03-vzdelavani-poradenstvi"
+  >
+    Povinné hodinové dotace (24/18), uznatelnost nákladů, psychologická a terapeutická pomoc, supervize a odborné poradenství.
+  </Card>
+
+  <Card 
+    title="4. Provozní, osobní a věcné výdaje" 
+    icon="car-building" 
+    href="/spvpp-04-provoz-a-naklady"
+  >
+    Mzdové náklady, alokační klíče, provoz automobilů (limit 500 Kč/dohoda), režie, věcné výdaje a investiční limity.
+  </Card>
+
+  <Card 
+    title="5. Kontrola a vyúčtování" 
+    icon="file-invoice-dollar" 
+    href="/spvpp-05-kontrola-vyuctovani"
+  >
+    Veřejnosprávní kontrola, auditní stopa, roční uzávěrka, přechodná ustanovení a checklist pro odeslání vyúčtování.
+  </Card>
+
+  <Card 
+    title="6. Rychlý souhrn SPVPP" 
+    icon="tally" 
+    href="/spvpp-06-souhrn"
+  >
+    Kompaktní tahák: limity, sazby, zákazy, koridory vyhlášky a provozní pravidla pro každodenní praxi.
+  </Card>
+
+</CardGroup>
+
+---
+
+## ⚡ Rychlý přehled klíčových limitů
+
+<CardGroup cols={3}>
+  <Card title="Respitní péče" icon="campground">
+    **3 800 Kč / pobyt** (organizovaný DO)  
+    **600 Kč / den** (individuální výběr pěstounem)
+  </Card>
+
+  <Card title="Hlídání" icon="clock">
+    **150 / 200 Kč** interní asistent  
+    **100 / 160 Kč** osoba blízká  
+    Max. **6 hodin denně**
+  </Card>
+
+  <Card title="Vzdělávání" icon="book-open">
+    **24 / 18 hodin** ročně  
+    Ubytování max. **1 500 Kč / noc**  
+    Pravidlo **6 hodin výuky / den**
+  </Card>
+</CardGroup>
+
+---
+
+## 🚨 Základní pravidlo
+
+<Callout type="error" title="Zákaz refundačního principu">
+  SPVPP je neinvestiční transfer. Organizace musí být vždy **přímým objednatelem a plátcem služby**.  
+  Refundace pěstounům jsou přípustné pouze výjimečně a s plnou auditní stopou.
+</Callout>
+
+---
+
+## 🗂️ Konfigurace v `mintlify.json`
+
+```json
+{
+  "group": "Čerpání SPVPP",
+  "pages": [
+    "spvpp-00-index",
+    "spvpp-01-cerpani-spvpp-prehled",
+    "spvpp-02-respity",
+    "spvpp-03-vzdelavani-poradenstvi",
+    "spvpp-04-provoz-a-naklady",
+    "spvpp-05-kontrola-vyuctovani",
+    "spvpp-06-souhrn"
+  ]
+}

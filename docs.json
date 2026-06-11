@@ -197,12 +197,13 @@
               {
                 "group": "Čerpání SPVPP",
                 "pages": [
-                  "cerpani-spvpp-prehled",
-                  "respity",
-                  "vzdelavani-poradenstvi",
-                  "provoz-a-naklady",
-                  "kontrola-vyuctovani",
-                  "souhr-spvpp"
+                  "spvpp-00-index",
+				  "spvpp-01-cerpani-spvpp-prehled",
+                  "spvpp-02-respity",
+                  "spvpp-03-vzdelavani-poradenstvi",
+                  "spvpp-04-provoz-a-naklady",
+                  "spvpp-05-kontrola-vyuctovani",
+                  "spvpp-06-souhrn.mdx"
                 ]
               },
               {
