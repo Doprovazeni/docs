@@ -152,6 +152,30 @@
         "pages": [
           "archiv-mpsv/index",
           {
+            "group": "Respit (2026)",
+            "pages": [
+              "doc-respit-index",
+              "doc-respit-uvod",
+              "doc-respit-celodenni",
+              "doc-respit-kratkodoba",
+              "doc-respit-smluvni-zajisteni",
+              "doc-respit-vyjimky",
+              "doc-respit-tahak"
+            ]
+          },
+          {
+            "group": "SPVPP",
+            "pages": [
+              "spvpp-00-index",
+              "spvpp-01-cerpani-spvpp-prehled",
+              "spvpp-02-respity",
+              "spvpp-03-vzdelavani-poradenstvi",
+              "spvpp-04-provoz-a-naklady",
+              "spvpp-05-kontrola-vyuctovani",
+              "spvpp-06-souhrn"
+            ]
+          },
+          {
             "group": "Informace",
             "icon": "school",
             "pages": [
@@ -193,31 +217,7 @@
           {
             "group": "Metodiky MPSV",
             "pages": [
-              "archiv-mpsv/vyklad-respitu-2025",
-              {
-                "group": "Čerpání SPVPP",
-                "pages": [
-                  "spvpp-00-index",
-				  "spvpp-01-cerpani-spvpp-prehled",
-                  "spvpp-02-respity",
-                  "spvpp-03-vzdelavani-poradenstvi",
-                  "spvpp-04-provoz-a-naklady",
-                  "spvpp-05-kontrola-vyuctovani",
-                  "spvpp-06-souhrn"
-                ]
-              },
-              {
-                "group": "Respit podrobně",
-                "pages": [
-                  "doc-respit-index",
-				  "doc-respit-uvod",
-				  "doc-respit-celodenni",
-                  "doc-respit-kratkodoba",
-				  "doc-respit-smluvni-zajisteni",
-				  "doc-respit-vyjimky",
-				  "doc-respit-tahak"
-                ]
-              }
+              "archiv-mpsv/vyklad-respitu-2025"
             ]
           }
         ]
