@@ -103,7 +103,7 @@
             ]
           },
           {
-            "group": "Metodické pokyny",
+            "group": "Metodika práce",
             "icon": "chalkboard-teacher",
             "pages": [
               "slovnik-pojmu",
@@ -156,8 +156,12 @@
             "pages": []
           },
           {
-            "group": "Metodické pokyny",
-            "pages": []
+            "group": "Metodiky MPSV",
+            "pages": [
+              "archiv-mpsv/instrukce-2025-spvpp",
+              "archiv-mpsv/vyklad-respitu-2025",
+              "archiv-mpsv/zapis-adar-2025"
+            ]
           }
         ]
       },
@@ -213,6 +217,9 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Ostatní"
       }
     ]
   },
