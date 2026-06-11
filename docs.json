@@ -209,7 +209,11 @@
                 "group": "Respit podrobně",
                 "pages": [
                   "doc-respit-uvod",
-                  "doc-respit-kratkodoba"
+				  "doc-respit-celodenni",
+                  "doc-respit-kratkodoba",
+				  "doc-respit-smluvni-zajisteni",
+				  "doc-respit-vyjimky",
+				  "doc-respit-tahak",
                 ]
               }
             ]
