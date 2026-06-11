@@ -4,17 +4,15 @@ sidebarTitle: "Přehled (Index)"
 description: "Hlavní rozcestník interní dokumentace pro zajišťování krátkodobé a celodenní péče v doprovázející organizaci."
 ---
 
-import { Card, CardGroup, Callout } from '@mintlify/components';
-
 # Respity a hlídání dětí v NRP
 
 Vítejte v interní sekci metodické dokumentace naší doprovázející organizace, která je kompletně dedikována problematice poskytování a zajišťování osobní péče o svěřené děti podle **§ 47a odst. 2 písm. a) a b) zákona o SPOD**.
 
-Tato příručka byla plně harmonizována s legislativním rámcem pro rok **2026**, instrukcemi MPSV a aktuálními pravidly finančních kontrol Úřadu práce ČR. Slouží jako závazný podklad pro rozhodování managementu, schvalování sociálními pracovníky a zaúčtování ekonomickým úsekem.
+Dokumentace byla plně harmonizována s legislativním rámcem pro rok **2026**, instrukcemi MPSV a aktuálními pravidly finančních kontrol Úřadu práce ČR. Slouží jako závazný podklad pro rozhodování managementu, schvalování sociálními pracovníky a zaúčtování ekonomickým úsekem.
 
 ---
 
-## 🗺️ Struktura dokumentace (Rychlá navigace)
+## Obsah
 
 Vyberte si konkrétní kapitolu podle agendy, kterou právě řešíte:
 
@@ -46,7 +44,7 @@ Vyberte si konkrétní kapitolu podle agendy, kterou právě řešíte:
 
 ---
 
-## ⚡ Rychlé provozní ukazatele (Rámcový přehled)
+## Rychlé provozní ukazatele (Rámcový přehled)
 
 Pro okamžitou orientaci bez nutnosti otevírání jednotlivých kapitol uvádíme základní pilíře finanční matice:
 
@@ -67,33 +65,14 @@ Pro okamžitou orientaci bez nutnosti otevírání jednotlivých kapitol uvádí
 
 ---
 
-## 🚨 Základní zlaté pravidlo pro všechny pracovníky
+## Základní zlaté pravidlo pro všechny pracovníky
 
-<error>
+<warning>
   Pamatujte, že finanční prostředky ze státního příspěvku (SPVPP) **nesmí být nikdy vyplaceny pěstounovi v hotovosti ani zpětně refundovány** na jeho osobní účet na základě jím zaplacených paragonů. Naše organizace musí vždy vystupovat jako přímý objednatel a plátce služby vůči hlídající osobě nebo pořadateli tábora. Jakákoli odchylka znamená porušení rozpočtové kázně při auditu z Úřadu práce ČR!
-</error>
+</warning>
 
-<error>
+<warning>
   Pamatujte, že finanční prostředky ze státního příspěvku (SPVPP) **nesmí být nikdy vyplaceny pěstounovi v hotovosti ani zpětně refundovány** na jeho osobní účet na základě jím zaplacených paragonů. Naše organizace musí vždy vystupovat jako přímý objednatel a plátce služby vůči hlídající osobě nebo pořadateli tábora. Jakákoli odchylka znamená porušení rozpočtové kázně při auditu z Úřadu práce ČR!
-</error>
+</warning>
 
 ---
-
-## 🗂️ Jak nakonfigurovat tento index v Mintlify (`mintlify.json`)
-
-Pro správné zobrazení této nové sekce ve vašem levém navigačním panelu přidejte do konfiguračního souboru `mintlify.json` následující blok do pole `navigation`:
-
-```json
-{
-  "group": "Respity a hlídání dětí",
-  "pages": [
-    "doc_respit_index",
-    "doc_respit_uvod",
-    "doc_respit_celodenni",
-    "doc_respit_kratkodoba",
-    "doc_respit_smluvni_zajisteni",
-    "doc_respit_vyjimky",
-    "doc_respit_tahak"
-  ]
-}
-```
