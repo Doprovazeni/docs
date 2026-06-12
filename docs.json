@@ -182,13 +182,13 @@
             "group": "Povinné dokumenty",
             "pages": [
               "povinne-dokumenty-index",
-              "povinne-eticky-kodex",
-              "povinne-knihy-zaznamu",
-              "povinne-ochrana-osobnich-udaju-gdpr",
               "povinne-povereni-spod",
-              "povinne-smernice-bozp-a-po",
               "povinne-smernice-organizacni-rad",
-              "povinne-spisovy-a-skartacni-rad"
+              "povinne-eticky-kodex",
+              "povinne-ochrana-osobnich-udaju-gdpr",
+              "povinne-smernice-bozp-a-po",
+              "povinne-spisovy-a-skartacni-rad",
+              "povinne-knihy-zaznamu"
             ]
           },
           {
