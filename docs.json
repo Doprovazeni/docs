@@ -193,7 +193,7 @@
             ]
           },
           {
-            "group": "Metodika Asistovaných kontaktů",
+            "group": "Metodika asistovaných kontaktů",
             "pages": [
               "akontakt-index",
               "akontakt-01",
@@ -204,6 +204,19 @@
               "akontakt-06",
               "akontakt-07",
               "akontakt-souhrn"
+            ]
+          },
+          {
+            "group": "Metodika tvorby a vyhodnocování plánu podpory dítěte",
+            "pages": [
+              "mtvpp-index",
+              "mtvpp-01",
+              "mtvpp-02",
+              "mtvpp-03",
+              "mtvpp-04",
+              "mtvpp-05",
+              "mtvpp-06",
+              "mtvpp-souhrn"
             ]
           },
           {
