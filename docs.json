@@ -111,6 +111,7 @@
               {
                 "group": "Jak na kontakty s rodinou",
                 "icon": "family",
+                "hidden": true,
                 "pages": [
                   "k1",
                   "2",
@@ -189,6 +190,20 @@
               "povinne-smernice-bozp-a-po",
               "povinne-spisovy-a-skartacni-rad",
               "povinne-knihy-zaznamu"
+            ]
+          },
+          {
+            "group": "Metodika Asistovaných kontaktů",
+            "pages": [
+              "akontakt-index",
+              "akontakt-01",
+              "akontakt-02",
+              "akontakt-03",
+              "akontakt-04",
+              "akontakt-05",
+              "akontakt-06",
+              "akontakt-07",
+              "akontakt-souhrn"
             ]
           },
           {
