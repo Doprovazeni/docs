@@ -230,6 +230,17 @@
             ]
           },
           {
+            "group": "Směrnice a pravidla pro čerpání SPVPP",
+            "pages": [
+              "xspvpp-index",
+              "xspvpp-01-cerpani-spvpp-prehled",
+              "xspvpp-02-respity",
+              "xspvpp-03-vzdelavani-poradenstvi",
+              "xspvpp-04-provoz-a-naklady",
+              "xspvpp-05-kontrola-vyuctovani"
+            ]
+          },
+          {
             "group": "Respit (2026)",
             "pages": [
               "doc-respit-index",
@@ -243,6 +254,7 @@
           },
           {
             "group": "SPVPP",
+            "hidden": true,
             "pages": [
               "spvpp-00-index",
               "spvpp-01-cerpani-spvpp-prehled",
