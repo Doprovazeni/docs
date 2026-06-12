@@ -178,6 +178,7 @@
       {
         "tab": "Dokumentace",
         "pages": [
+          "zalozka-dokumentace-index",
           "archiv-mpsv/index",
           {
             "group": "Povinné dokumenty",
