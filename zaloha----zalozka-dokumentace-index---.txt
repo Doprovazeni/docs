@@ -6,7 +6,7 @@ icon: "folder-bookmark"
 ---
 
 <Frame>
-  <img src="/images/mala-urednice.jpg" alt="Metodická dokumentace služby Doprovázení.com" />
+  ![2148356683](/images/2148356683.jpg)
 </Frame>
 
 Vítejte v centrálním registru dokumentace organizace **Host. pro NelhoStejnost, z.s.** (Doprovázení.com). Tato stránka slouží jako kompletní rozcestník ke všem závazným metodikám, standardům kvality, postupům a směrnicím, které využívají naši klíčoví pracovníci v terénu a pěstounské rodiny.
