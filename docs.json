@@ -182,6 +182,7 @@
           {
             "group": "Metodika: Asistované kontakty s rodinou",
             "pages": [
+              "akontakt-index",
               "akontakt-01",
               "akontakt-02",
               "akontakt-03",
@@ -195,6 +196,7 @@
           {
             "group": "Metodika: Tvorba a vyhodnocování plánu podpory dítěte",
             "pages": [
+              "mtvpp-index",
               "mtvpp-01",
               "mtvpp-02",
               "mtvpp-03",
