@@ -220,6 +220,16 @@
             ]
           },
           {
+            "group": "Krizový / Traumatologický plán",
+            "pages": [
+              "krizovy-plan-index",
+              "krizovy-plan-01",
+              "krizovy-plan-02",
+              "krizovy-plan-03",
+              "krizovy-plan-souhrn"
+            ]
+          },
+          {
             "group": "Respit (2026)",
             "pages": [
               "doc-respit-index",
