@@ -206,15 +206,7 @@
           },
           {
             "group": "Metodika: Respity a hlídání",
-            "pages": [
-              "doc-respit-index",
-              "doc-respit-uvod",
-              "doc-respit-celodenni",
-              "doc-respit-kratkodoba",
-              "doc-respit-smluvni-zajisteni",
-              "doc-respit-vyjimky",
-              "doc-respit-tahak"
-            ]
+            "pages": []
           },
           {
             "group": "Metodika: Čerpání SPVPP",
