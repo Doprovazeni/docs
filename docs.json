@@ -179,24 +179,9 @@
         "tab": "Dokumentace",
         "pages": [
           "zalozka-dokumentace-index",
-          "archiv-mpsv/index",
           {
-            "group": "Povinné dokumenty",
+            "group": "Metodika: Asistované kontakty s rodinou",
             "pages": [
-              "povinne-dokumenty-index",
-              "povinne-povereni-spod",
-              "povinne-smernice-organizacni-rad",
-              "povinne-eticky-kodex",
-              "povinne-ochrana-osobnich-udaju-gdpr",
-              "povinne-smernice-bozp-a-po",
-              "povinne-spisovy-a-skartacni-rad",
-              "povinne-knihy-zaznamu"
-            ]
-          },
-          {
-            "group": "Metodika asistovaných kontaktů",
-            "pages": [
-              "akontakt-index",
               "akontakt-01",
               "akontakt-02",
               "akontakt-03",
@@ -208,9 +193,8 @@
             ]
           },
           {
-            "group": "Metodika tvorby a vyhodnocování plánu podpory dítěte",
+            "group": "Metodika: Tvorba a vyhodnocování plánu podpory dítěte",
             "pages": [
-              "mtvpp-index",
               "mtvpp-01",
               "mtvpp-02",
               "mtvpp-03",
@@ -218,6 +202,21 @@
               "mtvpp-05",
               "mtvpp-06",
               "mtvpp-souhrn"
+            ]
+          },
+          {
+            "group": "Metodika: Respity a hlídání",
+            "pages": []
+          },
+          {
+            "group": "Metodika: Čerpání SPVPP",
+            "pages": [
+              "xspvpp-index",
+              "xspvpp-01-cerpani-spvpp-prehled",
+              "xspvpp-02-respity",
+              "xspvpp-03-vzdelavani-poradenstvi",
+              "xspvpp-04-provoz-a-naklady",
+              "xspvpp-05-kontrola-vyuctovani"
             ]
           },
           {
@@ -231,26 +230,16 @@
             ]
           },
           {
-            "group": "Pravidla pro čerpání SPVPP",
+            "group": "Povinné dokumenty",
             "pages": [
-              "xspvpp-index",
-              "xspvpp-01-cerpani-spvpp-prehled",
-              "xspvpp-02-respity",
-              "xspvpp-03-vzdelavani-poradenstvi",
-              "xspvpp-04-provoz-a-naklady",
-              "xspvpp-05-kontrola-vyuctovani"
-            ]
-          },
-          {
-            "group": "Respit (2026)",
-            "pages": [
-              "doc-respit-index",
-              "doc-respit-uvod",
-              "doc-respit-celodenni",
-              "doc-respit-kratkodoba",
-              "doc-respit-smluvni-zajisteni",
-              "doc-respit-vyjimky",
-              "doc-respit-tahak"
+              "povinne-dokumenty-index",
+              "povinne-povereni-spod",
+              "povinne-smernice-organizacni-rad",
+              "povinne-eticky-kodex",
+              "povinne-ochrana-osobnich-udaju-gdpr",
+              "povinne-smernice-bozp-a-po",
+              "povinne-spisovy-a-skartacni-rad",
+              "povinne-knihy-zaznamu"
             ]
           },
           {
@@ -364,9 +353,6 @@
             ]
           }
         ]
-      },
-      {
-        "tab": "Ostatní"
       }
     ]
   },
