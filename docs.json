@@ -179,6 +179,19 @@
         "pages": [
           "archiv-mpsv/index",
           {
+            "group": "Povinné dokumenty",
+            "pages": [
+              "povinne-dokumenty-index",
+              "povinne-eticky-kodex",
+              "povinne-knihy-zaznamu",
+              "povinne-ochrana-osobnich-udaju-gdpr",
+              "povinne-povereni-spod",
+              "povinne-smernice-bozp-a-po",
+              "povinne-smernice-organizacni-rad",
+              "povinne-spisovy-a-skartacni-rad"
+            ]
+          },
+          {
             "group": "Respit (2026)",
             "pages": [
               "doc-respit-index",
